@@ -12,7 +12,9 @@ Get the latest version from **[Releases](https://github.com/Codyshep/birdsai-des
 |---|---|
 | Windows | `BirdsAI_x.y.z_x64-setup.exe` (or the `.msi`) |
 | macOS (Apple silicon) | `BirdsAI_x.y.z_aarch64.dmg` |
-| Linux | `.AppImage` or `.deb` |
+
+Windows and macOS are supported. On anything else, use Birdsai in your browser at
+[usebirdsai.com](https://usebirdsai.com/).
 
 Once installed, the app updates itself: when a new version is out it offers **Update now**.
 Every update is signed, and the app only installs updates signed by Birdsai.
